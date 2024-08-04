@@ -74,9 +74,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For more information, feel free to reach out:
 
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: youremail@example.com
-
+- GitHub: [IgorMoreira](https://github.com/IgorMoriera)
+- LinkedIn: [igors-moreira](www.linkedin.com/in/igors-moreira)
+  
 Check out the [video demonstration](link-to-video) to see the code in action and understand how the system works! 🎥👇
 
 Thank you for your interest in the Fatigue Detection System! Your feedback and contributions are highly appreciated.
