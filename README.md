@@ -1,0 +1,2 @@
+# Fatigue-Detection-with-Python
+ This project focuses on detecting fatigue using Python and advanced image processing techniques. By leveraging MediaPipe, the system monitors key indicators of fatigue, such as eye blinking and head movement, in real-time. A graphical user interface displays these results, highlighting critical moments when fatigue is detected and alerts are triggered. The system aims to improve safety by being applicable in both road safety and workplace environments, with future plans to integrate machine learning for enhanced accuracy and adaptability.
