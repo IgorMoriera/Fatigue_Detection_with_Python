@@ -1,7 +1,7 @@
 # Fatigue Detection with Python
 
 <p align="center">
-  <img src="blob:https://ideogram.ai/0a8ef5f7-8de2-4f7f-8318-7c1cd51c6ab5" width="500"/>
+  <img src="a-visually-striking-infographic-depicting-fatigue--23C2TE80SbadJxtKkVQFNQ-H0yOHV3FTQWO0E7TTqwDbg.jpeg" width="500"/>
 </p>
 
 ## Overview
