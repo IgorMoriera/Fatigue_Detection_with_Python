@@ -1,8 +1,8 @@
 # Fatigue Detection with Python
 
-<p align="center">
-  <img src="a-visually-striking-infographic-depicting-fatigue--23C2TE80SbadJxtKkVQFNQ-H0yOHV3FTQWO0E7TTqwDbg.jpeg" width="500"/>
-</p>
+<div align="center">
+<img src="![Driver Fatigue Detection](https://github.com/user-attachments/assets/82fd4948-ee87-4db4-be51-0503e5f62457)" width="0px" />
+</div>
 
 ## Overview
 
