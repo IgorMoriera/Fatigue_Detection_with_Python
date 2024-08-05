@@ -14,7 +14,8 @@ Welcome to the Fatigue Detection System repository! This project, developed duri
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bbd07b39-8257-4664-a98d-2bd7aa45e6ed" width="800" height="350" />
 </div>
----
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
