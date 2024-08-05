@@ -1,14 +1,20 @@
 # Fatigue Detection with Python
 
 <div align="center">
-<img src="![Driver Fatigue Detection](https://github.com/user-attachments/assets/82fd4948-ee87-4db4-be51-0503e5f62457)" width="0px" />
+  <img src="https://github.com/user-attachments/assets/2bd8143d-725b-484b-99bc-8e034c43e17a" width="800" height="350" />
 </div>
+
 
 ## Overview
 
 Welcome to the Fatigue Detection System repository! This project, developed during my Data Science postgraduate course at PUC Minas, focuses on detecting fatigue using Python. The system is designed to monitor signs of fatigue, such as eye blinking and head movements, leveraging advanced image processing techniques and machine learning models. By leveraging MediaPipe, the system monitors key indicators of fatigue, such as eye blinking and head movement, in real-time. A graphical user interface displays these results, highlighting critical moments when fatigue is detected and alerts are triggered. The system aims to improve safety by being applicable in both road safety and workplace environments, with future plans to integrate machine learning for enhanced accuracy and adaptability.
 
+> Check out the video demonstration to see the code in action and understand how the system works! 🎥👇
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bbd07b39-8257-4664-a98d-2bd7aa45e6ed" width="800" height="350" />
+</div>
+---
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -81,7 +87,6 @@ For more information, feel free to reach out:
 - GitHub: [IgorMoreira](https://github.com/IgorMoriera)
 - LinkedIn: [igors-moreira](www.linkedin.com/in/igors-moreira)
   
-Check out the [video demonstration](link-to-video) to see the code in action and understand how the system works! 🎥👇
 
 Thank you for your interest in the Fatigue Detection System! Your feedback and contributions are highly appreciated.
 
