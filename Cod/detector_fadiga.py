@@ -176,7 +176,7 @@ with mp_face_mesh.FaceMesh(
                         org=(10, 470),
                         fontScale=0.5, thickness=2, color=(0, 215, 255))
 
-            # Condição: se os olhos estiverem meio fechados, contar.
+            # Condição: se os olhos estiverem "meio" fechados, contar.
             if media_abertura_olhos < MEDIA_ABERTURA_PADRAO:
                 CONTADOR_QUADROS_SONOLENCIA += 1
 
